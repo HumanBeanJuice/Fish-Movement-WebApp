@@ -1,0 +1,6 @@
+/fish-flask/.venv
+/fish-map/node_modules
+/.vscode
+fish-flask/fish_flask/__pycache__/data.cpython-311.pyc
+fish-flask/fish_flask/at_release_df_new.csv
+fish-flask/fish_flask/fishPos_20190604.csv

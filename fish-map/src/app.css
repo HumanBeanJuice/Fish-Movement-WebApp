@@ -1,0 +1,19 @@
+h1,
+h3,
+h5,
+table,
+.legend {
+    font-family: 'Century Gothic';
+    display: flex;
+    justify-content: center;
+}
+
+select {
+    margin-bottom: 1rem;
+    font-size: larger;
+}
+
+td {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
